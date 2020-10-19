@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is Just a small crash course on node",
+  "main": "app.js",
+  "scripts": {
+    "develop":"node app.js"
+  },
+  "author": "Yash Sanghavi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
